@@ -87,11 +87,11 @@ public class Game implements MouseListener, ActionListener {
 	}
 
 	void createLevelOneButtons() {
-		balloonButton = addButton("balloon.png", 698, 336);
-		diamondButton = addButton("diamond.png", 315, 900);
-		pawprintsButton = addButton("pawprints.png", 1079, 782);
+		balloonButton = addButton("balloon.png", 448, 336);
+		diamondButton = addButton("diamond.png", 315, 435);
+		pawprintsButton = addButton("pawprints.png", 1079, 634);
 		ringButton = addButton("WeddingRing.png", 1460, 500);
-		snakeButton = addButton("snake.png", 1100, 420);
+		snakeButton = addButton("snake.png", 1100, 214);
 		backpackButton = addButton("backpack.png", 840, 770);
 		sparklesButton = addButton("sparkles.png", 680, 756);
 
